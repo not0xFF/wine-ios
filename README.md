@@ -15,3 +15,11 @@ a. wine arm ports
 q. device specifics?
 
 a. as long as you have a jb and ssh you should be fine
+
+q. how2contribute?
+
+a. pull reqs. with patches, although there's not much to work with atm
+
+also pick a random issue to fuck around with for lulz
+
+bonus points for contributing while totally shitfaced XD
