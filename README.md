@@ -20,6 +20,9 @@ q. how2contribute?
 
 a. pull reqs. with patches, although there's not much to work with atm
 
+q. 0xFF is best girl
+thats not a question, but accept it anyway.
+
 also pick a random issue to fuck around with for lulz
 
 bonus points for contributing while totally shitfaced XD
