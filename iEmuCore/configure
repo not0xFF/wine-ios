@@ -316,7 +316,8 @@ case "$cpu" in
   ;;
   *)
     echo "Unsupported CPU = $cpu"
-    exit 1
+	echo "Continuing anyways with $cpu, expect MAJOR instability!"
+    #exit 1
   ;;
 esac
 
