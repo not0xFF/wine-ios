@@ -1822,7 +1822,7 @@ if test "$mingw32" != yes -a "$pthread" = no; then
   echo "Error: pthread check failed"
   echo "Make sure to have the pthread libs and headers installed."
   echo
-  exit 1
+  echo "Continuing on $cpu without pthread anyways. Instability is possible"
 fi
 
 ##########################################
