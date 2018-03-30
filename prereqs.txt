@@ -5,4 +5,7 @@ OpenSSH (or dropbear)
 afc2add (or Apple File Conduit 2)
 A 32b (armv7) device (aarch64 support will be implemented depending on how wine works w/ it)
 gcc
-radare cydia repo (http://cydia.radare.org/)
+
+from radare cydia repo (http://cydia.radare.org/) OR the debs folder
+cacerts
+git 2.13
