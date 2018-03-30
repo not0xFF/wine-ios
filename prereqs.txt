@@ -1,0 +1,8 @@
+This * will * be a updated list of utils required to compile this, as the debs folder probably won't get updated as much as it should
+¯\_(ツ)_/¯
+
+OpenSSH (or dropbear)
+afc2add (or Apple File Conduit 2)
+A 32b (armv7) device (aarch64 support will be implemented depending on how wine works w/ it)
+gcc
+radare cydia repo (http://cydia.radare.org/)
