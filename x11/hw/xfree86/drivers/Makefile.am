@@ -1,5 +1,0 @@
-SUBDIRS =
-
-if XORG_DRIVER_MODESETTING
-SUBDIRS += modesetting
-endif

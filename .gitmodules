@@ -1,0 +1,6 @@
+[submodule "xserver"]
+	path = xserver
+	url = https://github.com/mirror/xserver.git
+[submodule "qemu"]
+	path = qemu
+	url = https://github.com/qemu/qemu.git

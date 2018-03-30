@@ -1,3 +1,0 @@
-build pipe
-build app to load
-sync display w/ wine (probably hook into the start of wine and have it feed into x11)
