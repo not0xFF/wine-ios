@@ -7,3 +7,6 @@
 [submodule "macros"]
 	path = macros
 	url = git://anongit.freedesktop.org/xorg/util/macros
+[submodule "util"]
+	path = util
+	url = git://anongit.freedesktop.org/xorg/font/util
