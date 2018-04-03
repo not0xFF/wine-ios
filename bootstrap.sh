@@ -35,12 +35,21 @@ if [ -z "$(ls -A macros)" ]; then
 else
 	echo "found qemu!"
 fi
+if [ -z "$(ls -A util)" ]; then
+	echo "fontutil wasn't pulled!"
+	exit 1;
+else
+	echo "found fontutil!"
+fi
 echo "Found all files!"
 echo "%%% Building"
 cd macros
 ./autogen.sh
 make install
 cd ..
+cd util
+./autogen.sh
+aclocal --verbose -I /usr/local/share/aclocal
 cd xserver
 ./autogen.sh
 aclocal --verbose -I /usr/local/share/aclocal
